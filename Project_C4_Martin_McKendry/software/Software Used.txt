@@ -1,0 +1,11 @@
+- Raspbian operating system 
+
+- OpenCV (open computer vision) image processing libraries
+
+- Geany IDE
+
+- Git VCS version control system
+
+- Mputty SSH Client with multiple tabs
+
+- TightVNC software to project screen and allow remote control of machine   

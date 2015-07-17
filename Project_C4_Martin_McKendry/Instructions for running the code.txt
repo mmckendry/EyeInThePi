@@ -1,0 +1,11 @@
+To run this code you will need the following:
+
+-Raspberry Pi model B
+
+-Raspberry Pi Camera
+
+-OpenCV
+
+-IDE Geany for Python interpreter
+
+When you have all the components installed you can open the roadAware.py in Geany and click run.
